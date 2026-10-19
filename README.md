@@ -1,0 +1,1 @@
+# swiftui-performance-sentinel
